@@ -73,9 +73,9 @@ The system operates as a **Simple Reflex Agent**. It doesn't require a complex m
 ![System Schematic](Smart%20Agent%20System%20for%20Power%20Management.png)
 
 ### 2. Wiring & Simulation
-![Circuit Layout](IMG_6901.png)
-![Simulation Active](IMG_6902.png)
-![Monitoring State](IMG_6903.png)
+![Circuit Layout](IMG_6901.jpeg)
+![Simulation Active](IMG_6902.jpeg)
+![Monitoring State](IMG_6903.jpeg)
 
 ---
 
